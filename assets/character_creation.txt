@@ -1,0 +1,27 @@
+Create Your Character
+
+To create a character, you need to choose a race, a class, and assign ability scores. Your choices will affect your character's abilities and skills throughout the game.
+
+Race:
+- Human: balanced and adaptable
+- Elf: agile and wise
+- Dwarf: tough and hearty
+- Halfling: small and stealthy
+
+Class:
+- Warrior: strong and skilled in combat
+- Mage: knowledgeable in the arcane arts
+- Rogue: cunning and stealthy
+- Cleric: devoted to a deity and skilled in divine magic
+
+Ability Scores:
+- Strength: determines your physical power
+- Dexterity: determines your agility and reflexes
+- Constitution: determines your health and endurance
+- Intelligence: determines your knowledge and problem-solving skills
+- Wisdom: determines your perception and judgment
+- Charisma: determines your personality and social skills
+
+Roll four six-sided dice and add up the three highest rolls for each ability score. Assign the resulting scores to the abilities of your choice.
+
+Good luck and have fun!
